@@ -1,4 +1,35 @@
-# GUIA-DE-EXAMEN Resumen de Ensamblador ARM en Raspberry Pi 
+
+<pre>
+
+	<p align=center>
+
+Tecnológico Nacional de México
+Instituto Tecnológico de Tijuana
+
+Departamento de Sistemas y Computación
+Ingeniería en Sistemas Computacionales
+
+Semestre:
+Agosto - Diciembre 2023
+
+Materia:
+Lenguajes de interfaz
+
+Docente:
+M.C. Rene Solis Reyes 
+
+Unidad:
+2
+
+Título del trabajo:
+ GUIA-DE-EXAMEN Resumen de Ensamblador ARM en Raspberry Pi 
+
+Estudiante:
+Sanchez Rosas Karime Lizbeth
+
+	</p>
+
+</pre>
 
 ## Capítulo 3
 
